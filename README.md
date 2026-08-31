@@ -2,7 +2,7 @@
   
 # 👋 Hey! I'm Tanishq Saxena
 
-### 2nd-Year Student | Full Stack Developer • Learning Generative AI & LLM Engineering
+### 3rd-Year Student | Full Stack Developer • Learning Generative AI & LLM Engineering
 
 </div>
 
