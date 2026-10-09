@@ -9,7 +9,7 @@
 ---
 
 ### 🎓 About Me
-- 🏫 2nd-Year Student passionate about **Software Development & AI**
+- 🏫 3rd-Year Student passionate about **Software Development & AI**
 - 🎯 Focused on **Full Stack Web Development** and **Generative AI / LLM Engineering**
 - 💻 Experienced in building applications using the **MERN Stack**
 - 🚀 Currently exploring **AI Agents, LLM applications, and Chatbots**
